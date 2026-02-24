@@ -1,20 +1,17 @@
 # 💫 About Me:
-🔭 I’m currently working on🔭 
+🔭 I’m currently working on
 - Strengthening Data Structures & Algorithms
-- Improving problem-solving skills for tech placements<br>
-👯 I’m looking to collaborate on:
+- Improving problem-solving skills for tech placements<br>👯 I’m looking to collaborate on:
 - Beginner-friendly open-source projects
 - AI/ML based mini projects
-- basic learner level Cloud deployment projects<br>
-🤝 I’m looking for help with:
+- basic learner level Cloud deployment projects<br>🤝 I’m looking for help with:
 - DSA concepts
 - Frontend development (React.js / UI design)
-- Databases<br>
-🌱 I’m currently learning:
+- Databases<br>🌱 I’m currently learning:
 - Data Structures & Algorithms (C++)
 - Frontend Development (HTML, CSS, JavaScript, React)
 - mysql and docker
-- Ai and genAi concepts<br>> ⚡ Fun fact:
+- Ai and genAi concepts<br>>⚡ Fun fact:
 I may start small, but I scale fast — give me an opportunity to learn and I’ll return it with performance, growth, and long-term value.
 
 
@@ -28,8 +25,6 @@ I may start small, but I scale fast — give me an opportunity to learn and I’
 ![](https://nirzak-streak-stats.vercel.app/?user=Adarsh1169&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adarsh1169&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Adarsh1169&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
