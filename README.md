@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,100:3399FF&height=150&section=header&text=Adarsh%20Kumar%20Singh&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0066CC,100:3399FF&height=170&section=header&text=Adarsh%20Kumar%20Singh&fontSize=38&fontAlignY=35&fontColor=ffffff&animation=fadeIn)
   # 💫 About Me: <br>
 🔭 **I’m currently working on:**
 
