@@ -1,7 +1,8 @@
 # 💫 About Me:
 🔭 I’m currently working on
 - Strengthening Data Structures & Algorithms
-- Improving problem-solving skills for tech placements<br>👯 I’m looking to collaborate on:
+- Improving problem-solving skills for tech placements
+- 👯 I’m looking to collaborate on:
 - Beginner-friendly open-source projects
 - AI/ML based mini projects
 - basic learner level Cloud deployment projects<br>🤝 I’m looking for help with:
