@@ -1,21 +1,34 @@
 # 💫 About Me:
-🔭 I’m currently working on:
-- Strengthening Data Structures & Algorithms
-- Improving problem-solving skills for tech placements <br>
-👯 I’m looking to collaborate on:
-- Beginner-friendly open-source projects
-- AI/ML based mini projects
-- basic learner level Cloud deployment projects<br>
-🤝 I’m looking for help with:
-- DSA concepts
-- Frontend development (React.js / UI design)
-- Databases<br>
-🌱 I’m currently learning:
-- Data Structures & Algorithms (C++)
-- Frontend Development (HTML, CSS, JavaScript, React)
-- mysql and docker
-- Ai and genAi concepts<br>>
-- ⚡ Fun fact:
+🔭 **I’m currently working on:**
+
+- Strengthening Data Structures & Algorithms  
+- Improving problem-solving skills for tech placements  
+
+
+👯 **I’m looking to collaborate on:**
+
+- Beginner-friendly open-source projects  
+- AI/ML based mini projects  
+- Learner-level cloud deployment projects  
+
+
+🤝 **I’m looking for help with:**
+
+- DSA concepts  
+- Frontend development (React.js / UI design)  
+- Databases  
+
+
+🌱 **I’m currently learning:**
+
+- Data Structures & Algorithms (C++)  
+- Frontend Development (HTML, CSS, JavaScript, React)  
+- MySQL and Docker  
+- AI and Generative AI concepts  
+
+
+⚡ **Fun fact:**
+
 I may start small, but I scale fast — give me an opportunity to learn and I’ll return it with performance, growth, and long-term value.
 
 
