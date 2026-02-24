@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on
+🔭 I’m currently working on:
 - Strengthening Data Structures & Algorithms
 - Improving problem-solving skills for tech placements <br>
 👯 I’m looking to collaborate on:
